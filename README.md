@@ -1,4 +1,4 @@
-# JS-Hunt
+# Web Hunt
 Aplicação web com listagem de produtos utilizando ReactJs - Curso ReactJs da Rocketseat
 
 ## Requisitos
